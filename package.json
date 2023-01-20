@@ -1,0 +1,19 @@
+{
+  "name": "mc-strat-resolver",
+  "version": "1.0.0",
+  "description": "The Minecraft Strategy Resolver",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheAlan404/mc-strat-resolver.git"
+  },
+  "author": "TheAlan404,skyrina",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TheAlan404/mc-strat-resolver/issues"
+  },
+  "homepage": "https://github.com/TheAlan404/mc-strat-resolver#readme"
+}
